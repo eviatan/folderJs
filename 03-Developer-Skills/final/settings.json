@@ -1,0 +1,45 @@
+{
+  "workbench.iconTheme": "Monokai Pro Icons",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "python.pythonPath": "C:\\Users\\Navidis\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+  "workbench.colorTheme": "Monokai Pro",
+  "window.zoomLevel": -1,
+  "files.autoSave": "onFocusChange",
+  "editor.fontSize": 16,
+  "css.validate": false,
+  "scss.validate": false,
+  "less.validate": false,
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+
+  
+  "todohighlight.isCaseSensitive": true,
+  "todohighlight.keywords": [
+    {
+      "text": "VIDEO",
+      "color": "#333",
+      "backgroundColor": "#23ed"
+    },
+    {
+      "text": "FIXME",
+      "color": "#333",
+      "backgroundColor": "#e67e22"
+    },
+    {
+      "text": "BUG",
+      "color": "#333",
+      "backgroundColor": "#e74c3c"
+    },
+    {
+      "text": "TODO",
+      "color": "#333",
+      "backgroundColor": "#2ecc71"
+    },
+
+  ],
+  "yaml.schemas": {
+    "file:///c%3A/Users/Navidis/.vscode/extensions/atlassian.atlascode-2.8.3/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "atlascode.bitbucket.enabled": true,
+  "atlascode.jira.enabled": false,
+}
